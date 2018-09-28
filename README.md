@@ -16,6 +16,6 @@
 ## [2018. 09. 28]
 ### 발표자
 
-1. 김태영 - Retrofit 첫 걸음
+1. 김태영 - [Retrofit 첫 걸음](https://github.com/GramDefined/Study/blob/master/01_-_Retrofit/Retrofit%20%EC%B2%AB%EA%B1%B8%EC%9D%8C.md)
 2. 전승민 - 해상도에 따른 View 크기 조정
 3. 이승욱 - Constraint Layout
