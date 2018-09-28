@@ -18,4 +18,4 @@
 
 1. 김태영 - [Retrofit 첫 걸음](https://github.com/GramDefined/Study/blob/master/01_김태영_Retrofit%20첫걸음/Retrofit%20첫걸음.md)
 2. 전승민 - 해상도에 따른 View 크기 조정
-3. 이승욱 - Constraint Layout
+3. 이승욱 - [Constraint Layout](https://github.com/qwsd1109/Study/blob/master/01_-_ConstraintLayout.md)
