@@ -1,4 +1,4 @@
-# Study
+# App Study
 
 ## 스터디 규칙
 
