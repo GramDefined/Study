@@ -29,4 +29,5 @@
   - 2.  “Matching/End” 가이드라인 - 화면 끝으로부터 오프셋으로 지정합니다.
   - 3.  “Percent” 가이드라인 - 화면의의 일정 비율로 가이드라인의 위치를 지정합니다.
 ## 참조자료
+- ppt(직접만들었습니다.)
 - [ConstraintLayout](https://github.com/GramDefined/Study/blob/master/01_%EC%9D%B4%EC%8A%B9%EC%9A%B1_ConstraintLayout/ConstraintLayout_%EC%9D%B4%EC%8A%B9%EC%9A%B1.pptx)
