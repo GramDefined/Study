@@ -12,14 +12,16 @@
 
 ```groovy
 implementation 'com.squareup.retrofit2:retrofit:2.0.2'
-implementation 'com.squareup.retrofit2:converter-gson:2.0.0-beta4
+implementation 'com.squareup.retrofit2:converter-gson:2.0.0-beta4'
 ```
 
 * 레트로핏을 사용할 수 있는 라이브러리를 추가한 후 sync를 해줍니다.
 
 ### Internet_Permission 추가하기
 
-<pre><code>uses-permission android:name="android.permission.INTERNET"</code></pre>
+```xml
+uses-permission android:name="android.permission.INTERNET"
+```
 
 * 인터넷 통신을 할 수 있게 하는 internet_permission을 추가하여 retrofit을 사용할 수 있게한다.
 
@@ -65,7 +67,7 @@ Strng pw;
 
 ```java
 @POST("login")
-Call<Item> post_login(@Field(“id”)String id,@Field(“pw”)String pw)
+Call<Item> post_login(@Field(“id”) String id, @Field(“pw”) String pw)
  ```
 
 * 이제 서버와 통신을 위해 API문서에 보내거나 받는 정보들을 기재해줍니다.
@@ -96,7 +98,7 @@ call.enqueue(new Callback<Item>() {
 
 * 그 후 call.enqueue로 통신 성공과 실패시에 수행되는 기능을 작성해줍니다.
 
-* enqueun는 비동기적인 통신에 사용됩니다. 하지만 동기적인 통신을 할 때에는 execute를 사용합니다.
+* enqueue는 비동기적인 통신에 사용됩니다. 하지만 동기적인 통신을 할 때에는 execute를 사용합니다.
 
 ## 참고문헌
 * [하늘을 난 모기(Retrofit을-사용해보자-v202)](http://flymogi.tistory.com/entry/Retrofit%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90-v202)
