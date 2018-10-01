@@ -1,3 +1,5 @@
+## Code
+
 ```java
 package com.example.nwar.study;
 
@@ -51,51 +53,50 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-> ActionBar
+## ActionBar
 
-.hide(); : 액션 바를 숨김
+### 메서드
+- .hide(); : 액션 바를 숨김
 
-> Display
+## Display
 
-.getSize(Point p); : 디바이스의 해상도를 구함.
+### 메서드
+- .getSize(Point p); : 디바이스의 해상도를 구함.
+    - p.x; : 단말기의 x축 크기
+    - p.y; : 단말기의 y축 크기
 
-+ p.x; : 단말기의 x축 크기
-+ p.y; : 단말기의 y축 크기
+## RelativeLayout
 
-> RelativeLayout
+### 생성자
+- new RelativeLayout(context c);
 
-생성자 : new RelativeLayout(context c);
+### 메서드
+- .setLayoutParams(RelativeLayout.LayoutParams params); : params의 속성 적용
+- .setBackgroundColor(0x ...  ) : 레이아웃의 배경 색 설정
+- .setPivotX(Int x); : 레이아웃의 기준점(X축) 설정
+- .setPivotY(Int y); : 레이아웃의 기준점(Y축) 설정
+- .setScaleX(float fx); : x축의 비율 설정
+- .setScaleY(float fy); : y축의 비율 설정
+- .addView(ViewType, ParamsType) : ViewType에 ParamsType 적용시켜 View를 만듦. (ParamsType = RelativeLayout.LayoutParams)
 
-.setLayoutParams(RelativeLayout.LayoutParams params); : params의 속성 적용
+## RelativeLayout.LayoutParams
 
-.setBackgroundColor(0x ...  ) : 레이아웃의 배경 색 설정
+### 생성자
+- new RelativeLayout.LayoutParams(Int weight, Int Height);
 
-.setPivotX(Int x); : 레이아웃의 기준점(X축) 설정
+### 메서드
+- .leftMargin = Int leftMargin; : 왼쪽 마진값 설정
+- .topMargin = Int topMargin; : 위쪽 마진값 설정
 
-.setPivotY(Int y); : 레이아웃의 기준점(Y축) 설정
+## Button
 
-.setScaleX(float fx); : x축의 비율 설정
+### 생성자
+- new Button(context c);
 
-.setScaleY(float fy); : y축의 비율 설정
+### 메서드
+- .setLayoutParams(ParamsType params); : params의 속성 값 적용(ParamsType = RelativeLayout.LayoutParams)
 
-.addView(ViewType, ParamsType) : ViewType에 ParamsType 적용시켜 View를 만듦. (ParamsType = RelativeLayout.LayoutParams)
+## 사용자 설정 메서드
 
-> RelativeLayout.LayoutParams
-
-생성자 : new RelativeLayout.LayoutParams(Int weight, Int Height);
-
-.leftMargin = Int leftMargin; : 왼쪽 마진값 설정
-
-.topMargin = Int topMargin; : 위쪽 마진값 설정
-
-> Button
-
-생성자: new Button(context c);
-
-.setLayoutParams(ParamsType params); : params의 속성 값 적용(ParamsType = RelativeLayout.LayoutParams)
-
-> 사용자 설정 메서드
-
-getResources().getIdentifier(String name, String defType, String defPackage); : resourceId를 리턴함.
-
-name: 파일이름 defType: 디렉토리이름 defPackage: 패키지 이름
+- getResources().getIdentifier(String name, String defType, String defPackage); : resourceId를 리턴함.
+- name: 파일이름 defType: 디렉토리이름 defPackage: 패키지 이름
