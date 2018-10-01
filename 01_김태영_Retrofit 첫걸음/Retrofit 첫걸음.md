@@ -12,7 +12,7 @@
 
 ```groovy
 implementation 'com.squareup.retrofit2:retrofit:2.0.2'
-implementation 'com.squareup.retrofit2:converter-gson:2.0.0-beta4'
+implementation 'com.squareup.retrofit2:converter-gson:2.0.2-beta4'
 ```
 
 * 레트로핏을 사용할 수 있는 라이브러리를 추가한 후 sync를 해줍니다.
