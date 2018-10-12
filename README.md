@@ -24,5 +24,5 @@
 ### 발표자
 
 1. 정다은 - [Activity Lifecycle](https://github.com/GramDefined/Study/blob/master/02_정다은_Activity%20Lifecycle/02_정다은_Activity%20Lifecycle.md)
-2. 이동기
+2. 이동기 - [옵셔널](https://github.com/GramDefined/Study/tree/master/02_이동기_옵셔널/02_이동기_옵셔널.md)
 3. 이주용
