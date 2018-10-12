@@ -19,3 +19,10 @@
 1. 김태영 - [Retrofit 첫 걸음](https://github.com/GramDefined/Study/blob/master/01_김태영_Retrofit%20첫걸음/Retrofit%20첫걸음.md)
 2. 전승민 - [해상도에 따른 View 크기 조정](https://github.com/GramDefined/Study/blob/master/01_%EC%A0%84%EC%8A%B9%EB%AF%BC_%ED%95%B4%EC%83%81%EB%8F%84%EC%97%90%20%EB%94%B0%EB%A5%B8%20View%20%ED%81%AC%EA%B8%B0%20%EC%A1%B0%EC%A0%95/01_%EC%A0%84%EC%8A%B9%EB%AF%BC_%ED%95%B4%EC%83%81%EB%8F%84%EC%97%90%20%EB%94%B0%EB%A5%B8%20View%20%ED%81%AC%EA%B8%B0%20%EC%A1%B0%EC%A0%95.md)
 3. 이승욱 - [Constraint Layout](https://github.com/GramDefined/Study/blob/master/01_%EC%9D%B4%EC%8A%B9%EC%9A%B1_ConstraintLayout/01_%EC%9D%B4%EC%8A%B9%EC%9A%B1_ConstraintLayout.md)
+
+## [2018. 10. 12]
+### 발표자
+
+1. 정다은 - [Activity Lifecycle](https://github.com/GramDefined/Study/blob/master/02_정다은_Activity%20Lifecycle/02_정다은_Activity%20Lifecycle.md)
+2. 이동기
+3. 이주용
