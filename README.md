@@ -30,6 +30,6 @@
 ## [2018. 10. 26]
 ### 발표자
 
-1. 조우진
+1. 조우진 - [IBOutlet & IBAction](https://github.com/GramDefined/Study/blob/master/03_%EC%A1%B0%EC%9A%B0%EC%A7%84_IBAction%20%26%20IBOutlet/IBOutlet%20%26%20IBAction.md)
 2. 장소희
 3. 전승민
