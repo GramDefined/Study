@@ -26,3 +26,10 @@
 1. 정다은 - [Activity Lifecycle](https://github.com/GramDefined/Study/blob/master/02_정다은_Activity%20Lifecycle/02_정다은_Activity%20Lifecycle.md)
 2. 이동기 - [옵셔널](https://github.com/GramDefined/Study/tree/master/02_이동기_옵셔널/02_이동기_옵셔널.md)
 3. 이주용
+
+## [2018. 10. 26]
+### 발표자
+
+1. 조우진
+2. 장소희
+3. 전승민
