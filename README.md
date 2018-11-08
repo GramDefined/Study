@@ -31,5 +31,5 @@
 ### 발표자
 
 1. 조우진 - [IBOutlet & IBAction](https://github.com/GramDefined/Study/blob/master/03_%EC%A1%B0%EC%9A%B0%EC%A7%84_IBAction%20%26%20IBOutlet/IBOutlet%20%26%20IBAction.md)
-2. 장소희
-3. 전승민
+2. 장소희 - [UI Event Handle](https://github.com/GramDefined/Study/blob/master/03_장소희_UI%20Event%20Handle/UIEventHandle.md)
+3. 전승민 - [리시버](https://github.com/GramDefined/Study/blob/master/03_전승민_리시버/리시버.md)
