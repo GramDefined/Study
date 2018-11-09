@@ -33,3 +33,8 @@
 1. 조우진 - [IBOutlet & IBAction](https://github.com/GramDefined/Study/blob/master/03_%EC%A1%B0%EC%9A%B0%EC%A7%84_IBAction%20%26%20IBOutlet/IBOutlet%20%26%20IBAction.md)
 2. 장소희 - [UI Event Handle](https://github.com/GramDefined/Study/blob/master/03_장소희_UI%20Event%20Handle/UIEventHandle.md)
 3. 전승민 - [리시버](https://github.com/GramDefined/Study/blob/master/03_전승민_리시버/리시버.md)
+
+## [2018. 11. 09]
+### 발표자
+
+1. 김태영 - [앱 개발 할땐하더라도 코틀린 한번정돈 괜찮잖아](https://github.com/GramDefined/Study/blob/master/04_%EA%B9%80%ED%83%9C%EC%98%81_%EC%95%B1%20%EA%B0%9C%EB%B0%9C%20%ED%95%A0%EB%95%90%ED%95%98%EB%8D%94%EB%9D%BC%EB%8F%84%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%ED%95%9C%EB%B2%88%EC%A0%95%EB%8F%88%20%EA%B4%9C%EC%B0%AE%EC%9E%96%EC%95%84/%EC%95%B1%20%EA%B0%9C%EB%B0%9C%20%ED%95%A0%EB%95%90%20%ED%95%98%EB%8D%94%EB%9D%BC%EB%8F%84%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%ED%95%9C%EB%B2%88%EC%A0%95%EB%8F%88%20%EA%B4%9C%EC%B0%AE%EC%9E%96%EC%95%84.md)
