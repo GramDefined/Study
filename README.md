@@ -39,3 +39,8 @@
 
 1. 김태영 - [앱 개발 할땐하더라도 코틀린 한번정돈 괜찮잖아](https://github.com/GramDefined/Study/blob/master/04_%EA%B9%80%ED%83%9C%EC%98%81_%EC%95%B1%20%EA%B0%9C%EB%B0%9C%20%ED%95%A0%EB%95%90%ED%95%98%EB%8D%94%EB%9D%BC%EB%8F%84%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%ED%95%9C%EB%B2%88%EC%A0%95%EB%8F%88%20%EA%B4%9C%EC%B0%AE%EC%9E%96%EC%95%84/%EC%95%B1%20%EA%B0%9C%EB%B0%9C%20%ED%95%A0%EB%95%90%20%ED%95%98%EB%8D%94%EB%9D%BC%EB%8F%84%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%ED%95%9C%EB%B2%88%EC%A0%95%EB%8F%88%20%EA%B4%9C%EC%B0%AE%EC%9E%96%EC%95%84.md)
 2. 이동기 - [iOS생명주기](https://github.com/GramDefined/Study/blob/master/04_%EC%9D%B4%EB%8F%99%EA%B8%B0_iOS%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0/04_%EC%9D%B4%EB%8F%99%EA%B8%B0_%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
+
+## [2018. 11. 23]
+### 발표자
+
+1. 정다은 - [계산기앱을 만들어보자](https://github.com/GramDefined/Study/tree/master/05_정다은_계산기앱을%20만들어보자)
