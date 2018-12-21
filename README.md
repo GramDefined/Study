@@ -45,3 +45,10 @@
 
 1. 정다은 - [계산기앱을 만들어보자](https://github.com/GramDefined/Study/tree/master/05_정다은_계산기앱을%20만들어보자)
 
+## [2018. 12. 21]
+### 발표자
+1. 조우진 - [Delegate](https://github.com/GramDefined/Study/blob/master/06_%EC%A1%B0%EC%9A%B0%EC%A7%84_Delegate/Delegate.md)
+2. 손승용 -
+3. 이주용 -
+4. 송진우 - 
+
