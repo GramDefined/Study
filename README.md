@@ -48,7 +48,7 @@
 ## [2018. 12. 21]
 ### 발표자
 1. 조우진 - [Delegate](https://github.com/GramDefined/Study/blob/master/06_%EC%A1%B0%EC%9A%B0%EC%A7%84_Delegate/Delegate.md)
-2. 손승용 -
+2. 손승용 - 
 3. 이주용 -
-4. 송진우 - 
+4. 송진우 - [Coroutines](https://github.com/GramDefined/Study/blob/master/06_송진우_Coroutines/Kotlin%20Coroutines.md)
 
