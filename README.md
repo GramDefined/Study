@@ -55,4 +55,4 @@
 ##[2019. 01. 04]
 ### 발표자
 1. 이종현 - 
-2. 김태영 - [Flutter를 알아볼까요?]()
+2. 김태영 - [Flutter를 알아볼까요?](https://github.com/GramDefined/Study/blob/master/07_%EA%B9%80%ED%83%9C%EC%98%81_Flutter%EB%A5%BC%20%EC%95%8C%EC%95%84%EB%B3%BC%EA%B9%8C%EC%9A%94/Flutter%EB%A5%BC%20%EC%95%8C%EC%95%84%EB%B3%BC%EA%B9%8C%EC%9A%94.md)
