@@ -52,3 +52,7 @@
 3. 이주용 -
 4. 송진우 - [Coroutines](https://github.com/GramDefined/Study/blob/master/06_송진우_Coroutines/Kotlin%20Coroutines.md)
 
+##[2019. 01. 04]
+### 발표자
+1. 이종현 - 
+2. 김태영 - [Flutter를 알아볼까요?]()
